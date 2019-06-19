@@ -1,2 +1,5 @@
-# homebrew-silas
-Homebrew formula
+# Homebrew Formula
+
+```
+$ brew tap silas/silas
+```
