@@ -1,9 +1,9 @@
 class Tunneldns < Formula
   desc "DNS over HTTPS (DoH) proxy"
   homepage "https://github.com/silas/tunneldns"
-  version "0.2.0"
+  version "0.3.0"
   url "https://www.sewell.org/downloads/tunneldns/tunneldns-#{version}.tar.gz"
-  sha256 "220bbfa148d6cdc57063b84fb983a1d115e76133295a477495504304b7497ce1"
+  sha256 "d8f139869111a712111b1e0e0c1ddf0bb6f91b244c764282f4f31625dd3cfb1a"
 
   def install
     sbin.install "tunneldns"
